@@ -1,6 +1,6 @@
 ## Echo Bot Container
 
-Container image based on [Node.js Docker official image](https://hub.docker.com/_/node/) with Echo Bot from [Bot Framework SDK for JavaScript](https://docs.microsoft.com/es-es/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0).   
+Container image based on [Node.js Docker official image](https://hub.docker.com/_/node/) with Echo Bot from [Bot Framework SDK for JavaScript](https://docs.microsoft.com/es-es/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0).
 
 #### How to use this image
 
