@@ -1,6 +1,6 @@
 `docker build -t mdf .`
 
-`docker run -p 3978:3978 --restart unless-stopped mdf`
+`docker run -p 3978:3978 mdf`
 
 https://github.com/Microsoft/BotFramework-Emulator/issues/356
 
