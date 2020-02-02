@@ -8,7 +8,7 @@ Container image based on [Node.js Docker official image](https://hub.docker.com/
 
 `docker run -p 3978:3978 mdf`
 
-To test bot in Docker container, you need to go into the App Settings and uncheck "Bypass ngrok for local addresses"
+To test bot in Docker container, you need to go into the Bot Framework Emulator app settings and uncheck "Bypass ngrok for local addresses"
 
 https://github.com/Microsoft/BotFramework-Emulator/issues/356
 
